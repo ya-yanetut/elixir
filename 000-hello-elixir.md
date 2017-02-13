@@ -43,6 +43,7 @@ CRTL+C CTRL+C
 ## Learning resources
 
 http://elixir-lang.org/learning.html
+
 https://github.com/hemanth/functional-programming-jargon
 
 
