@@ -67,7 +67,7 @@ end
 ### Great software needs great tools
 This is a partial quote from "Free software needs free tools", [Benjamin Mako Hill].
 
-From iex: `:observer-start`.
+From iex: `:observer.start`.
 
 #### NastyMath
 
